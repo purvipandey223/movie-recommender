@@ -1,0 +1,16 @@
+# .gitignore
+
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.sqlite3
+*.log
+.DS_Store
+.ipynb_checkpoints/
+similarity.pkl
