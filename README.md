@@ -34,6 +34,8 @@ In an age where content is abundant and user attention is scarce, recommending t
 
 ---
 
+![Snippet of WebApp](snippet.png)
+
 ## 📂 Project Structure
 
 ```bash
