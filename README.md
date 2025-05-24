@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-A simple and interactive **Movie Recommendation Web App** that allows users to search for a movie and get useful insights and suggestions. Built with **Python**, **Streamlit**, and powered by the **OMDb API**, this app recomends movies including its posters.
+Built with **Python**, **Streamlit**, and powered by the **OMDb API**, this app recomends movies including its posters.
 
 ---
 
